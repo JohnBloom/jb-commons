@@ -2,8 +2,9 @@
 dot files for my linux box 
 
 To install:
+In Ubuntu enable source code repositories and then run:
 ```
 cd ~
 git clone git@github.com:JohnBloom/jb-commons.git jb-commons
-~/jb-commons/links.sh
+bash ~/jb-commons/init.sh
 ```
