@@ -7,4 +7,5 @@ In Ubuntu enable source code repositories and then run:
 cd ~
 git clone git@github.com:JohnBloom/jb-commons.git jb-commons
 bash ~/jb-commons/init.sh
+bash ~/jb-commons/link.sh
 ```
